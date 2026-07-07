@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0079-word-search) |
 ## Linked List
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
