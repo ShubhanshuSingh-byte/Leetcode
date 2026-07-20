@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0079-word-search](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0079-word-search) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0070-climbing-stairs) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
 |  |
