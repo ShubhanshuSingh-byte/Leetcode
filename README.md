@@ -45,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0022-generate-parentheses) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
