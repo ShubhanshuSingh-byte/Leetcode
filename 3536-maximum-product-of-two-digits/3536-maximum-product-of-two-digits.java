@@ -1,12 +1,15 @@
 class Solution {
     public int maxProduct(int n) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
+        int first = 0, second = 0;
 
         while(n>0){
-            pq.add(n%10);
+            if(n%10>first){
+                second = first;
+                first = n%10;
+            }
+            else if(n%10>second) second = n%10;
             n/=10;
         }
-
-        return pq.poll()*pq.poll();
+        return first*second;
     }
 }
