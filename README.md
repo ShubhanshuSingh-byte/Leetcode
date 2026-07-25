@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0018-4sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
 |  |
