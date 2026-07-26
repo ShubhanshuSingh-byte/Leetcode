@@ -1,9 +1,9 @@
 class Solution {
     public int maximumProduct(int[] nums) {
-        if(nums.length==3) return nums[0]*nums[1]*nums[2];
-        int a = -1001, b=-1001, c=-1001;
-        int e = 1001, f=1001;
-        for(int num: nums){
+        int a=-1001, b=-1001, c=-1001;
+        int e=1001, f=1001;
+
+        for( int num : nums ){
             if(num>a){
                 c=b;
                 b=a;
@@ -17,18 +17,15 @@ class Solution {
                 c=num;
             }
         }
-
-        for(int num: nums){
+        for( int num : nums ){
             if(num<e){
                 f=e;
                 e=num;
             }
-
             else if(num<f){
                 f=num;
             }
-        }
-
+        } 
         return Math.max(a*b*c, a*e*f);
     }
 }
