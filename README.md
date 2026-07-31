@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0041-first-missing-positive) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0041-first-missing-positive) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0221-maximal-square) |
 | [1260-shift-2d-grid](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1260-shift-2d-grid) |
