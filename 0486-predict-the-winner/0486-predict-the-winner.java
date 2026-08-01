@@ -1,19 +1,18 @@
 class Solution {
     public boolean predictTheWinner(int[] nums) {
-        return dfs(nums, 0, nums.length-1, 0, 0, true);
+        return dfs(nums, 0, 0, 0, nums.length-1, true);
     }
 
-    public boolean dfs(int[] nums, int left, int right, int p1, int p2, boolean chance){
-        if(left>right) return p1>=p2;
+    public boolean dfs(int[] nums, int p1, int p2, int l, int r, boolean chance){
+        if(l>r) return p1>=p2;
 
         if(chance){
-            return dfs(nums, left+1, right, p1+nums[left], p2, false)
-                || dfs(nums, left, right-1, p1+nums[right], p2, false);
+            return dfs(nums, p1+nums[l], p2, l+1, r, false)
+                || dfs(nums, p1+nums[r], p2, l, r-1, false);
         }
-
         else{
-            return dfs(nums, left+1, right, p1, p2+nums[left], true)
-                && dfs(nums, left, right-1, p1, p2+nums[right], true);
+            return dfs(nums, p1, p2+nums[l], l+1, r, true)
+                && dfs(nums, p1, p2+nums[r], l, r-1, true);
         }
     }
 }
