@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0079-word-search) |
 | [0213-house-robber-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0213-house-robber-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Recursion
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0213-house-robber-ii) |
@@ -262,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1406-stone-game-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
