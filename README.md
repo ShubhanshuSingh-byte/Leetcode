@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0079-word-search) |
 | [0213-house-robber-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0213-house-robber-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0213-house-robber-ii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
