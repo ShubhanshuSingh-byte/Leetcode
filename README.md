@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0486-predict-the-winner) |
