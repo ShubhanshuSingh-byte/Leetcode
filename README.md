@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0079-word-search) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0486-predict-the-winner) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0221-maximal-square) |
 | [1260-shift-2d-grid](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1260-shift-2d-grid) |
