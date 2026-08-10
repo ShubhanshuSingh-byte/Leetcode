@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1406-stone-game-iii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1510-stone-game-iv) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -294,14 +296,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1510-stone-game-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -314,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0056-merge-intervals) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
