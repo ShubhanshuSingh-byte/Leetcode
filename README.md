@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0217-contains-duplicate) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
