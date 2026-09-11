@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Counting Sort
 |  |
