@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0213-house-robber-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0242-valid-anagram) |
