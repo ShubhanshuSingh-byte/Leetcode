@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0213-house-robber-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0392-is-subsequence) |
