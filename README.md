@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1406-stone-game-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Enumeration
 |  |
 | ------- |
