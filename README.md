@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1406-stone-game-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
