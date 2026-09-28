@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -478,4 +480,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
