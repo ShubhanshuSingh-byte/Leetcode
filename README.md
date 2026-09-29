@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1510-stone-game-iv) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0221-maximal-square) |
 | [1260-shift-2d-grid](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1260-shift-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -483,4 +486,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
