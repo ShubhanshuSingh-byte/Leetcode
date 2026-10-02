@@ -1,14 +1,14 @@
 class Solution {
-    static List<String> res;
+    List<String> res;
 
-    public static List<String> generateParenthesis(int n) {
+    public List<String> generateParenthesis(int n) {
         res = new ArrayList<>();
         StringBuilder sb = new StringBuilder();
         bt(0, 0, n,sb);
         return res;
     }
 
-    public static void bt(int open, int close, int n, StringBuilder s){
+    public void bt(int open, int close, int n, StringBuilder s){
         if(open==close && open==n)
         {
             res.add(s.toString());
