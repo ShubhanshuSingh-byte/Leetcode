@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0041-first-missing-positive) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0169-majority-element) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0046-permutations) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -507,4 +511,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
