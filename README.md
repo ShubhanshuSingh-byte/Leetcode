@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0065-valid-number) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0060-permutation-sequence) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
