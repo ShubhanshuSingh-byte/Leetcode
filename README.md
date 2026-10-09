@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0213-house-robber-ii) |
