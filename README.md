@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -436,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
 | ------- |
