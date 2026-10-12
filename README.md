@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0836-rectangle-overlap) |
