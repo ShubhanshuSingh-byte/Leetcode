@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0079-word-search) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0486-predict-the-winner) |
