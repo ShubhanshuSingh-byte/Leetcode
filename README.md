@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Trie
 |  |
 | ------- |
