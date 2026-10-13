@@ -545,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0037-sudoku-solver) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
