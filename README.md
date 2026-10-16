@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0065-valid-number) |
+| [0071-simplify-path](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0856-score-of-parentheses) |
