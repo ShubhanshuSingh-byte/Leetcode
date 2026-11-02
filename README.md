@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0263-ugly-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0836-rectangle-overlap) |
