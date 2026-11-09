@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0389-find-the-difference) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2747-count-zero-request-servers](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/2747-count-zero-request-servers) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShubhanshuSingh-byte/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
